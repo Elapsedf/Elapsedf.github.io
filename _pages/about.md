@@ -56,3 +56,5 @@ Fund (Only 6 student in the whole college), 2023
 **The First Prize Scholarship**, Sun Yat‑sen University 2021‑2022 Academic Scholarship, 2022
 
 **Ethics Award**, Sun Yat‑sen University 2021‑2022 Specialized Scholarships, 2022
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script>
