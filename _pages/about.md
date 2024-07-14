@@ -40,13 +40,13 @@ International
 ------
 **First Prize**, 12th Asia and Pacific Mathematical Contest in Modeling (Also Best Programming Award and Best New Media Award), 2022
 
-DOMESTiC
+Domestic
 ------
 **Finalist**, LingxiGames Cup(Programming Competition of Sun Yat‑sen University), 2023
 
 **Sliver Prize**, 13th MathorCup Mathematical Modeling Challenge for Colleges and Universities, 2023
 
-SCHOLARSHiP
+Scholarship
 ------
 **The Third Prize Scholarship (top 25%)**, Sun Yat‑sen University 2022‑2023 Academic Scholarship, 2023
 
