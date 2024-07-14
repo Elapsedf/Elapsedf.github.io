@@ -48,12 +48,11 @@ DOMESTiC
 
 SCHOLARSHiP
 ------
-**The Third Prize Scholarship**, Sun Yat‑sen University 2022‑2023 Academic Scholarship, 2023
+**The Third Prize Scholarship (top 25%)**, Sun Yat‑sen University 2022‑2023 Academic Scholarship, 2023
 
-**Interdisciplinary Talent Award**, Sun Yat‑sen University Intelligent Medical Interdisciplinary Talent Training
-Fund (Only 6 student in the whole college), 2023
+**Interdisciplinary Talent Award**, Sun Yat‑sen University Intelligent Medical Interdisciplinary Talent Training Fund (**Only 6 student in the whole college**), 2023
 
-**The First Prize Scholarship**, Sun Yat‑sen University 2021‑2022 Academic Scholarship, 2022
+**The First Prize Scholarship (top 5%)**, Sun Yat‑sen University 2021‑2022 Academic Scholarship, 2022
 
 **Ethics Award**, Sun Yat‑sen University 2021‑2022 Specialized Scholarships, 2022
 
