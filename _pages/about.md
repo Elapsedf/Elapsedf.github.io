@@ -20,8 +20,6 @@ Ongoing Work
 **Defeng Zhou**, Shimin Gong, Lanhua Li.
 Deep Reinforcement Learning for Wireless Powered Adaptive IRS-assisted Secure NOMA Transmission Against Eavesdroppers
 
-ZhiLi, **Defeng Zhou**, Junbo Wang.
-Deep reinforment learning based decision-making in vehicular network.
 
 HighLights
 ------
@@ -55,5 +53,16 @@ Scholarship
 **The First Prize Scholarship (top 5%)**, Sun Yat‑sen University 2021‑2022 Academic Scholarship, 2022
 
 **Ethics Award**, Sun Yat‑sen University 2021‑2022 Specialized Scholarships, 2022
+
+
+Academic Services
+======
+
+1. Reviewer of Neural Computing and Applications.
+
+
+
+ClustrMap
+======
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script>
