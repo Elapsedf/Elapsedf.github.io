@@ -24,7 +24,7 @@ Deep Reinforcement Learning for Wireless Powered Adaptive IRS-assisted Secure NO
 HighLights
 ------
 **Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
-Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers, **The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)**
+[Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers](https://ieeexplore.ieee.org/abstract/document/10592541), **The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)**
 
 Jiehui Huang, Zhenchao Tang, Xuedong He, Jun Zhou, **Defeng Zhou**, Calvin Yu-Chian Chen.
 [Progressive network based on detail scaling and texture extraction: A more general framework for image deraining](https://www.sciencedirect.com/science/article/pii/S092523122301189X), **Neurocomputing** 
