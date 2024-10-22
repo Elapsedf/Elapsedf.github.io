@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/favicon.png"     #"https://elapsedf.cn/img/favicon.png"
+  avatar           : "favicon.png"     #"https://elapsedf.cn/img/favicon.png"
   name             : "Defeng Zhou"
   pronouns         : # example: "she/her"  
   bio              : "A self-motivated undergraduate who interested in technology, AIGC, reinforcement learning and wireless communication"
