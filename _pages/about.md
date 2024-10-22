@@ -8,26 +8,26 @@ redirect_from:
 ---
 
 I am going to obtain my BEng degree with the College of Intelligent System, Shenzhen, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
-I am currently pursuing a Ph.D. program in Singapore.
+I am currently pursuing a Ph.D. program.
 
-My research is primarily centered around DRL based secure transmission, vehicular network and AI-Generated Content (AIGC) in wireless communication.
+My research is primarily centered around but not limited to machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication.
 
 Papers
 ======
 
 Ongoing Work
 ------
-**Defeng Zhou**, Shimin Gong, Lanhua Li.
-Deep Reinforcement Learning for Wireless Powered Adaptive IRS-assisted Secure NOMA Transmission Against Eavesdroppers
+**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Mohsen Guizani, Dusit Niyato.
+"Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions", forthcoming.
 
 
 HighLights
 ------
 **Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
-[Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers](https://ieeexplore.ieee.org/abstract/document/10592541), **The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)**
+["Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers"](https://ieeexplore.ieee.org/abstract/document/10592541), ***The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)***
 
 Jiehui Huang, Zhenchao Tang, Xuedong He, Jun Zhou, **Defeng Zhou**, Calvin Yu-Chian Chen.
-[Progressive network based on detail scaling and texture extraction: A more general framework for image deraining](https://www.sciencedirect.com/science/article/pii/S092523122301189X), **Neurocomputing** 
+["Progressive network based on detail scaling and texture extraction: A more general framework for image deraining"](https://www.sciencedirect.com/science/article/pii/S092523122301189X), ***Neurocomputing*** 
 
 
 
@@ -40,19 +40,19 @@ International
 
 Domestic
 ------
-**Finalist**, LingxiGames Cup(Programming Competition of Sun Yat‑sen University), 2023
+**Finalist**, LingxiGames Cup(Programming Competition of Sun Yat-sen University), 2023
 
 **Sliver Prize**, 13th MathorCup Mathematical Modeling Challenge for Colleges and Universities, 2023
 
 Scholarship
 ------
-**The Third Prize Scholarship (top 25%)**, Sun Yat‑sen University 2022‑2023 Academic Scholarship, 2023
+**The Third Prize Scholarship (top 25%)**, Sun Yat-sen University 2022-2023 Academic Scholarship, 2023
 
-**Interdisciplinary Talent Award**, Sun Yat‑sen University Intelligent Medical Interdisciplinary Talent Training Fund (**Only 6 student in the whole college**), 2023
+**Interdisciplinary Talent Award**, Sun Yat-sen University Intelligent Medical Interdisciplinary Talent Training Fund (**Only 6 student in the whole college**), 2023
 
-**The First Prize Scholarship (top 5%)**, Sun Yat‑sen University 2021‑2022 Academic Scholarship, 2022
+**The First Prize Scholarship (top 5%)**, Sun Yat-sen University 2021-2022 Academic Scholarship, 2022
 
-**Ethics Award**, Sun Yat‑sen University 2021‑2022 Specialized Scholarships, 2022
+**Ethics Award**, Sun Yat-sen University 2021-2022 Specialized Scholarships, 2022
 
 
 Academic Services
