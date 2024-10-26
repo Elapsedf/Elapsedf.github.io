@@ -60,6 +60,12 @@ Academic Services
 
 1. Reviewer of Neural Computing and Applications.
 
+KeyWords
+======
+<!-- ![Keywords](../images/Keywords.png#pic_center =400x400) -->
+<p align = "center">    
+<img  src="./images/Keywords.png" width="500" />
+</p>
 
 
 ClustrMap
