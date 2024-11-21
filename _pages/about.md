@@ -17,8 +17,8 @@ Papers
 
 Ongoing Work
 ------
-**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Mohsen Guizani, Dusit Niyato.
-"Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions", forthcoming.
+**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
+"Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions", submitted to IEEE Transactions on Communication, under review.
 
 
 HighLights
