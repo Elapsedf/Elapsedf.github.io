@@ -27,10 +27,10 @@ Defeng Zhou, Mingzhe Chen.
 
 HighLights
 ------
-[Apr/2025]**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
+[Apr/2025] **Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
 ["Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions"](https://doi.org/10.1109/TCOMM.2025.3568191), accepted by ***IEEE Transactions on Communication***.
 
-[Mar/2024]**Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
+[Mar/2024] **Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
 ["Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers"](https://ieeexplore.ieee.org/abstract/document/10592541), ***The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)***
 
 [Nov/2023]
@@ -79,4 +79,5 @@ KeyWords
 ClustrMap
 ======
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script> -->
+<a href="https://clustrmaps.com/site/1c0gq"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff" /></a>
