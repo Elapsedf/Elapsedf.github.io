@@ -79,5 +79,5 @@ KeyWords
 ClustrMap
 ======
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script> -->
-<a href="https://clustrmaps.com/site/1c0gq"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script>
+<!-- <a href="https://clustrmaps.com/site/1c0gq"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff" /></a> -->
