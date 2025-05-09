@@ -8,26 +8,34 @@ redirect_from:
 ---
 
 I am going to obtain my BEng degree with the College of Intelligent System, Shenzhen, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
-I am currently pursuing a Ph.D. program.
+I will go to the University of Miami to pursue a Ph.D. degree under the supervision of [Mingzhe Chen](https://winslab.us/).
 
-My research is primarily centered around but not limited to machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication.
+My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication.
+I am also open to cooperate with anyone who 
+
+<!-- News
+====== -->
 
 Papers
 ======
 
 Ongoing Work
 ------
-**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
-"Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions", submitted to IEEE Transactions on Communication, under review.
+Defeng Zhou, Mingzhe Chen.
+"Adaptive semantic communication", forthcoming.
 
 
 HighLights
 ------
-**Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
+[Apr/2025]**Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
+["Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions"](https://doi.org/10.1109/TCOMM.2025.3568191), accepted by ***IEEE Transactions on Communication***.
+
+[Mar/2024]**Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
 ["Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers"](https://ieeexplore.ieee.org/abstract/document/10592541), ***The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)***
 
+[Nov/2023]
 Jiehui Huang, Zhenchao Tang, Xuedong He, Jun Zhou, **Defeng Zhou**, Calvin Yu-Chian Chen.
-["Progressive network based on detail scaling and texture extraction: A more general framework for image deraining"](https://www.sciencedirect.com/science/article/pii/S092523122301189X), ***Neurocomputing*** 
+["Progressive network based on detail scaling and texture extraction: A more general framework for image deraining"](https://www.sciencedirect.com/science/article/pii/S092523122301189X), accepted by ***Neurocomputing*** 
 
 
 
