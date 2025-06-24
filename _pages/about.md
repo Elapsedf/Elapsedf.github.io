@@ -11,7 +11,7 @@ I am going to obtain my BEng degree with the College of Intelligent System, Shen
 I will go to the University of Miami to pursue a Ph.D. degree under the supervision of [Mingzhe Chen](https://winslab.us/).
 
 My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication.
-I am also open to cooperate with anyone who 
+
 
 <!-- News
 ====== -->
