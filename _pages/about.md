@@ -66,7 +66,8 @@ Scholarship
 Academic Services
 ======
 
-1. Reviewer of Neural Computing and Applications.
+1. Reviewer of *IEEE Transactions on Mobile Computing*, *IEEE Transactions on Communications*, *Neural Computing and Applications*.
+1. Reviewer of *IEEE WF-IoT*, *IEEE Wireless Communications Letters*.
 
 KeyWords
 ======
