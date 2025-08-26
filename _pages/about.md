@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am going to obtain my BEng degree with the College of Intelligent System, Shenzhen, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
-I will go to the University of Miami to pursue a Ph.D. degree under the supervision of [Mingzhe Chen](https://winslab.us/).
+I am currently a Ph.D. student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree with the College of Intelligent System, Shenzhen, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
 
-My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication.
+My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration!
 
 
 <!-- News
