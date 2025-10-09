@@ -24,11 +24,11 @@ author:
   avatar           : "favicon.png"     #"https://elapsedf.cn/img/favicon.png"
   name             : "Defeng Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "A self-motivated undergraduate who interested in technology, AIGC, reinforcement learning and wireless communication"
-  location         : "Shenzhen, China"
-  employer         : "Sun Yat-sen University"
+  bio              : "A self-motivated PhD who interested in semantic communication, AIGC, reinforcement learning and wireless communication"
+  location         : "South Miami, Florida"
+  employer         : "University of Miami"
   uri              : # URL
-  email            : "zhoudf5@mail2.sysu.edu.cn" 
+  email            : "defengzhou@miami.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
