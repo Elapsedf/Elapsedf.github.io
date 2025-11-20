@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree with the College of Intelligent System, Shenzhen, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
+I am currently a Ph.D. student from the Department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree from the College of Intelligent System, Shenzhen, Sun Yat-sen University, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
 
-My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration!
+My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration, and feel free to reach out to me!
 
 
 <!-- News
@@ -20,8 +20,11 @@ Papers
 
 Ongoing Work
 ------
-Defeng Zhou, Mingzhe Chen.
-"Adaptive semantic communication", forthcoming.
+
+Defeng Zhou, Dongyu Wei, Ye Hu, Siyao Li, Mingzhe Chen,
+"Semantic Communication Performance Optimization with
+
+Channel and Content Preference Feedbacks", *ICC 2026*, under review.
 
 
 HighLights
@@ -49,13 +52,13 @@ Domestic
 ------
 **Finalist**, LingxiGames Cup(Programming Competition of Sun Yat-sen University), 2023
 
-**Sliver Prize**, 13th MathorCup Mathematical Modeling Challenge for Colleges and Universities, 2023
+**Silver Prize**, 13th MathorCup Mathematical Modeling Challenge for Colleges and Universities, 2023
 
 Scholarship
 ------
 **The Third Prize Scholarship (top 25%)**, Sun Yat-sen University 2022-2023 Academic Scholarship, 2023
 
-**Interdisciplinary Talent Award**, Sun Yat-sen University Intelligent Medical Interdisciplinary Talent Training Fund (**Only 6 student in the whole college**), 2023
+**Interdisciplinary Talent Award**, Sun Yat-sen University Intelligent Medical Interdisciplinary Talent Training Fund (**Only 6 students in the whole college**), 2023
 
 **The First Prize Scholarship (top 5%)**, Sun Yat-sen University 2021-2022 Academic Scholarship, 2022
 
