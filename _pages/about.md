@@ -22,9 +22,7 @@ Ongoing Work
 ------
 
 Defeng Zhou, Dongyu Wei, Ye Hu, Siyao Li, Mingzhe Chen,
-"Semantic Communication Performance Optimization with
-
-Channel and Content Preference Feedbacks", *ICC 2026*, under review.
+"Semantic Communication Performance Optimization with Channel and Content Preference Feedbacks", *ICC 2026*, under review.
 
 
 HighLights
