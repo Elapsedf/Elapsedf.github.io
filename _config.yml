@@ -21,7 +21,7 @@ repository               : "Elapsedf/elapsedf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon.png"     #"https://elapsedf.cn/img/favicon.png"
+  avatar           : "profile.jpg"     #"https://elapsedf.cn/img/favicon.png"
   name             : "Defeng Zhou"
   pronouns         : # example: "she/her"  
   bio              : "A self-motivated PhD who interested in semantic communication, AIGC, reinforcement learning and wireless communication"
