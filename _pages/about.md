@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student from the Department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree from the College of Intelligent System, Shenzhen, Sun Yat-sen University, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
+I am currently a first year Ph.D. student from the Department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree from the College of Intelligent System, Shenzhen, Sun Yat-sen University, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
 
 My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration, and feel free to reach out to me!
 
-
 <!-- News
 ====== -->
+News
+======
+
+- [Jan/2026] My first paper during the Ph.D was accepted by ICC 2026!
 
 Papers
 ======
@@ -21,17 +24,19 @@ Papers
 Ongoing Work
 ------
 
-Defeng Zhou, Dongyu Wei, Ye Hu, Siyao Li, Mingzhe Chen,
-"Semantic Communication Performance Optimization with Channel and Content Preference Feedbacks", *ICC 2026*, under review.
-
+Defeng Zhou, Mingzhe Chen, "Optimization of Image Transmission with Channel and Content Preference Feedbacks in a Cooperative Semantic Communication Networks"
 
 HighLights
 ------
+
+[Jan/2026] **Defeng Zhou**, Dongyu Wei, Ye Hu, Siyao Li, Mingzhe Chen,
+"Semantic Communication Performance Optimization with Channel and Content Preference Feedbacks", accepted by ***IEEE International Conference on Communications (ICC 2026)***
+
 [Apr/2025] **Defeng Zhou**, Lanhua Li, Shimin Gong, Bo Gu, Gaojie Chen, Dusit Niyato.
 ["Learning Adaptive Jamming and Beamforming for Hybrid IRS-assisted Secure NOMA Transmissions"](https://doi.org/10.1109/TCOMM.2025.3568191), accepted by ***IEEE Transactions on Communication***.
 
 [Mar/2024] **Defeng Zhou**, Shimin Gong, Lanhua Li, Bo Gu, Mohsen Guizani.
-["Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers"](https://ieeexplore.ieee.org/abstract/document/10592541), ***The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)***
+["Deep Reinforcement Learning for IRS-assisted Secure NOMA Transmissions Against Eavesdroppers"](https://ieeexplore.ieee.org/abstract/document/10592541), accepted by ***The 20th International Wireless Communications & Mobile Computing Conference (IWCMC 2024)***
 
 [Nov/2023]
 Jiehui Huang, Zhenchao Tang, Xuedong He, Jun Zhou, **Defeng Zhou**, Calvin Yu-Chian Chen.
@@ -66,11 +71,18 @@ Scholarship
 Academic Services
 ======
 
-1. Reviewer of *IEEE Transactions on Mobile Computing*, *IEEE Transactions on Communications*, *IEEE Transactions on Green Communications and Networking*, *Neural Computing and Applications*.
-1. Reviewer of *IEEE WF-IoT*, *IEEE Wireless Communications Letters*, *IEEE International Conference on Communications*.
+1. TPC Member of *IEEE International Conference on Communications*, *Vehicular Technology Conference*
+1. Reviewer of *IEEE Transactions on Mobile Computing*, *IEEE Transactions on Communications*, *IEEE Transactions on Green Communications and Networking*, *IEEE Transactions on Cognitive Communications and Networking* *Neural Computing and Applications*.
+1. Reviewer of *IEEE WF-IoT*, *IEEE Wireless Communications Letters*, *IEEE International Conference on Communications*, *IEEE INFOCOM*.
+
+
+Teaching Experience
+======
+1. Graduate Teaching Assistant of Digital Design Laboratory
 
 KeyWords
 ======
+
 <!-- ![Keywords](../images/Keywords.png#pic_center =400x400) -->
 <p align = "center">    
 <img  src="./images/Keywords.png" width="500" />
