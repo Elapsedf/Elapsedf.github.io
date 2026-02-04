@@ -11,8 +11,7 @@ I am currently a first year Ph.D. student from the Department of [Electrical and
 
 My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration, and feel free to reach out to me!
 
-<!-- News
-====== -->
+
 News
 ======
 
