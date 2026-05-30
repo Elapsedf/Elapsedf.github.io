@@ -23,7 +23,9 @@ Papers
 Ongoing Work
 ------
 
-Defeng Zhou, Mingzhe Chen, "Optimization of Image Transmission with Channel and Content Preference Feedbacks in a Cooperative Semantic Communication Networks"
+**Defeng Zhou**, Dongyu Wei, Siyao Li, Mingzhe Chen, "Optimization of Image Transmission with Channel and Content Preference Feedbacks in a Cooperative Semantic Communication Networks"
+
+Dongyu Wei, **Defeng Zhou**, Yuchen Liu, Mingzhe Chen, "Resilient Multi-hop Split Learning with Device Assignment and Sub-model Splitting Optimization", under review in IEEE Transactions on Wireless Communications.
 
 HighLights
 ------
