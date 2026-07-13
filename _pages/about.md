@@ -9,12 +9,13 @@ redirect_from:
 
 I am currently a first year Ph.D. student from the Department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), University of Miami, under the supervision of [Mingzhe Chen](https://winslab.us/). I received my BEng degree from the College of Intelligent System, Shenzhen, Sun Yat-sen University, China, in 2025, under the guidance of [Shimin Gong](https://scholar.google.com.sg/citations?user=AKffc_QAAAAJ&hl=en) in WinsLab.
 
-My research is primarily centered around but not limited to real-time optimization, machine learning, UAV, and AI-Generated Content (AIGC) in wireless communication and semantic communication. Welcome to any collaboration, and feel free to reach out to me!
+My research is primarily centered around but not limited to **autonomous driving**, **machine learning,** **spatial reasoning, reinforcement learning, and multi-modal data fusion** in semantic communication. Welcome to any collaboration, and feel free to reach out to me!
 
 
 News
 ======
 
+- [July/2026] One co-author paper is accepted by IEEE TWC.
 - [Jan/2026] My first paper during the Ph.D was accepted by ICC 2026!
 
 Papers
@@ -23,12 +24,19 @@ Papers
 Ongoing Work
 ------
 
-**Defeng Zhou**, Dongyu Wei, Siyao Li, Mingzhe Chen, "Optimization of Image Transmission with Channel and Content Preference Feedbacks in a Cooperative Semantic Communication Networks"
+**Defeng Zhou**, Dongyu Wei, Siyao Li, Mingzhe Chen, "Optimization of Image Transmission with Channel and Content Preference Feedbacks in a Cooperative Semantic Communication Networks", under review in IEEE Transactions on Wireless Communications.
 
-Dongyu Wei, **Defeng Zhou**, Yuchen Liu, Mingzhe Chen, "Resilient Multi-hop Split Learning with Device Assignment and Sub-model Splitting Optimization", under review in IEEE Transactions on Wireless Communications.
+**Defeng Zhou**, Siyao Li, Mingzhe Chen, "Semantic-Utility-Aware Cell-Free User-Centric Network".
+
+**Defeng Zhou**, Dongyu Wei, Mingzhe Chen, "Token pruning in Autonomous Driving".
+
+
 
 HighLights
 ------
+
+[July/2026] Dongyu, **Defeng Zhou**, Yuchen Liu, Mingzhe Chen, 
+"Resilient Multi-hop Split Learning with Device Assignment and Sub-model Splitting Optimization", accepted by **IEEE Transactions on Wireless Communications**.
 
 [Jan/2026] **Defeng Zhou**, Dongyu Wei, Ye Hu, Siyao Li, Mingzhe Chen,
 "Semantic Communication Performance Optimization with Channel and Content Preference Feedbacks", accepted by ***IEEE International Conference on Communications (ICC 2026)***
@@ -73,7 +81,7 @@ Academic Services
 ======
 
 1. TPC Member of *IEEE International Conference on Communications*, *Vehicular Technology Conference*
-1. Reviewer of *IEEE Transactions on Mobile Computing*, *IEEE Transactions on Communications*, *IEEE Transactions on Green Communications and Networking*, *IEEE Transactions on Cognitive Communications and Networking* *Neural Computing and Applications*.
+1. Reviewer of *IEEE Journal on Selected Areas in Communications*,  *IEEE Transactions on Mobile Computing*, *IEEE Transactions on Communications*, *IEEE Transactions on Green Communications and Networking*, *IEEE Transactions on Cognitive Communications and Networking* *Neural Computing and Applications*.
 1. Reviewer of *IEEE WF-IoT*, *IEEE Wireless Communications Letters*, *IEEE International Conference on Communications*, *IEEE INFOCOM*.
 
 
