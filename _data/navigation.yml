@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
   - title: "Publications"
     url: /publications/
 
@@ -16,8 +19,4 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
     url: /files/Defeng_Zhou_CV.pdf
-    
-  - title: "Guide"
-    url: /markdown/
