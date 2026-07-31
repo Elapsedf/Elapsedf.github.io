@@ -163,9 +163,9 @@ Teaching
 Visitors
 ========
 
-<details class="visitor-map">
-  <summary>View visitor map</summary>
-  <div class="visitor-map__content">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Tu8P6Q9ThT-9QLseDrRdsK_sbJZeSyOqVJ3EypIV5S8&cl=ffffff&w=a"></script>
-  </div>
-</details>
+<div class="visitor-map">
+  <a class="visitor-map__link" href="https://info.flagcounter.com/RqlY" target="_blank" rel="noopener noreferrer" aria-label="View detailed visitor statistics">
+    <img src="https://s01.flagcounter.com/map/RqlY/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" width="800" height="375" alt="World map showing visitor locations by country">
+  </a>
+  <p class="visitor-map__note">Visitor locations are aggregated at the country level.</p>
+</div>

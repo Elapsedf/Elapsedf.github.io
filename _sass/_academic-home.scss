@@ -432,22 +432,31 @@ body {
 
 .visitor-map {
   overflow: hidden;
+  padding: 1rem;
   border: 1px solid $academic-border;
   border-radius: 10px;
   background: rgba(#fff, 0.75);
+  text-align: center;
 
-  summary {
-    padding: 0.8rem 1rem;
-    color: $academic-blue;
-    font-size: 0.8rem;
-    font-weight: 700;
-    cursor: pointer;
+  img {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 6px;
   }
 }
 
-.visitor-map__content {
-  padding: 0 1rem 1rem;
-  text-align: center;
+.page__content .visitor-map__link {
+  display: block;
+  text-decoration: none;
+}
+
+.visitor-map__note {
+  margin: 0.75rem 0 0 !important;
+  color: $academic-muted;
+  font-size: 0.72rem !important;
 }
 
 .sidebar .author__avatar img {
