@@ -35,6 +35,10 @@ News
 
 <ol class="news-timeline">
   <li>
+    <time datetime="2026-09">Sep 2026</time>
+    <span>My first-author paper, “Optimization of Image Transmission with Channel and Content Preference Feedbacks in Cooperative Semantic Communication Networks,” was accepted by <strong>IEEE Transactions on Wireless Communications</strong>.</span>
+  </li>
+  <li>
     <time datetime="2026-07">Jul 2026</time>
     <span>Our paper on resilient and secure multi-hop split learning was accepted by <strong>IEEE Transactions on Wireless Communications</strong>.</span>
   </li>
@@ -44,10 +48,10 @@ News
   </li>
 </ol>
 
-Publications
-============
+Selected Publications
+=====================
 
-<p class="section-note">Recent and selected work. For citation records and updates, visit <a href="https://scholar.google.com/citations?hl=en&user=6B91xcQAAAAJ">Google Scholar</a>.</p>
+<p class="section-note">Selected first-author work. For citation records and updates, visit <a href="https://scholar.google.com/citations?hl=en&user=6B91xcQAAAAJ">Google Scholar</a>.</p>
 
 <div class="publication-group">
   <h3>Published &amp; Accepted</h3>
@@ -55,10 +59,10 @@ Publications
   <article class="publication-card publication-card--featured">
     <div class="publication-card__topline">
       <span class="paper-status">New · TWC 2026</span>
-      <time datetime="2026-07">July 2026</time>
+      <time datetime="2026-09">September 2026</time>
     </div>
-    <h4><a href="https://ieeexplore.ieee.org/abstract/document/11618940/">Device Assignment and Model Splitting Optimization for Resilient and Secure Multi-hop Split Learning</a></h4>
-    <p>Dongyu Wei, <strong>Defeng Zhou</strong>, Yuchen Liu, and Mingzhe Chen</p>
+    <h4>Optimization of Image Transmission with Channel and Content Preference Feedbacks in Cooperative Semantic Communication Networks</h4>
+    <p><strong>Defeng Zhou</strong>, Dongyu Wei, Siyao Li, and Mingzhe Chen</p>
     <p class="publication-card__venue">IEEE Transactions on Wireless Communications, 2026</p>
   </article>
 
@@ -92,29 +96,14 @@ Publications
     <p class="publication-card__venue">International Wireless Communications &amp; Mobile Computing Conference (IWCMC), 2024</p>
   </article>
 
-  <article class="publication-card">
-    <div class="publication-card__topline">
-      <span class="paper-status paper-status--journal">Journal</span>
-      <time datetime="2023-11">November 2023</time>
-    </div>
-    <h4><a href="https://www.sciencedirect.com/science/article/pii/S092523122301189X">Progressive Network Based on Detail Scaling and Texture Extraction: A More General Framework for Image Deraining</a></h4>
-    <p>Jiehui Huang, Zhenchao Tang, Xuedong He, Jun Zhou, <strong>Defeng Zhou</strong>, and Calvin Yu-Chian Chen</p>
-    <p class="publication-card__venue">Neurocomputing, 2024</p>
-  </article>
 </div>
 
 <div class="publication-group publication-group--ongoing">
   <h3>Ongoing Work</h3>
 
   <article class="publication-card">
-    <span class="paper-status paper-status--ongoing">Under review</span>
-    <h4>Optimization of Image Transmission with Channel and Content Preference Feedbacks in Cooperative Semantic Communication Networks</h4>
-    <p><strong>Defeng Zhou</strong>, Dongyu Wei, Siyao Li, and Mingzhe Chen</p>
-  </article>
-
-  <article class="publication-card">
-    <span class="paper-status paper-status--ongoing">In progress</span>
-    <h4>Semantic-Utility-Aware Cell-Free User-Centric Network</h4>
+    <span class="paper-status paper-status--ongoing">Under review · TMC</span>
+    <h4>Semantic-Utility-Aware Fronthaul Orchestration for Cell-Free User-Centric Networks</h4>
     <p><strong>Defeng Zhou</strong>, Siyao Li, and Mingzhe Chen</p>
   </article>
 

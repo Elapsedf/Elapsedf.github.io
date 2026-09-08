@@ -1,6 +1,7 @@
 ---
 title: "Progressive network based on detail scaling and texture extraction: A more general framework for image deraining"
 collection: publications
+first_author: false
 permalink: /publication/2023-11-19-Neurocomputing
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-11-19
