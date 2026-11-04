@@ -51,7 +51,7 @@ News
 Selected Publications
 =====================
 
-<p class="section-note">Selected first-author work. For citation records and updates, visit <a href="https://scholar.google.com/citations?hl=en&user=6B91xcQAAAAJ">Google Scholar</a>.</p>
+<p class="section-note">Selected work. For citation records and updates, visit <a href="https://scholar.google.com/citations?hl=en&user=6B91xcQAAAAJ">Google Scholar</a>.</p>
 
 <div class="publication-group">
   <h3>Published &amp; Accepted</h3>
@@ -102,9 +102,21 @@ Selected Publications
   <h3>Ongoing Work</h3>
 
   <article class="publication-card">
+    <span class="paper-status paper-status--ongoing">Under review · JSAC</span>
+    <h4>Joint Optimization of Blockwise Quantization and Rank Selection for Federated LLM Fine-Tuning</h4>
+    <p>Dongyu Wei, <strong>Defeng Zhou</strong>, et al.</p>
+  </article>
+
+  <article class="publication-card">
     <span class="paper-status paper-status--ongoing">Under review · TMC</span>
     <h4>Semantic-Utility-Aware Fronthaul Orchestration for Cell-Free User-Centric Networks</h4>
     <p><strong>Defeng Zhou</strong>, Siyao Li, and Mingzhe Chen</p>
+  </article>
+
+  <article class="publication-card">
+    <span class="paper-status paper-status--ongoing">Under review · ICC 2027</span>
+    <h4>Semantic-Utility-Aware Fronthaul Routing and Cluster Processor Placement for Cell-Free User-Centric Network</h4>
+    <p><strong>Defeng Zhou</strong>, Siyao Li, Yuchen Liu, and Mingzhe Chen</p>
   </article>
 
   <article class="publication-card">
